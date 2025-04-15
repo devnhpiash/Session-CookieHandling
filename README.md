@@ -56,12 +56,15 @@ Session-CookieHandling/
 
 2. Move it to your XAMPP/htdocs folder:
    ```
-   E:/xampp/htdocs/2025/Session-CookieHandling/
+   xampp/htdocs/Session-CookieHandling/
+   or
+   public_html/
    ```
 
 3. Run it from your browser:
    ```
-   http://localhost/2025/Session-CookieHandling/index.php
+   http://localhost/Session-CookieHandling/index.php
+   www.yourdomain.com
    ```
 
 4. Default Login Credentials (hardcoded for demo):
